@@ -12,7 +12,7 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/gops v0.3.18
 	github.com/gorilla/websocket v1.5.0
-	github.com/klauspost/cpuid/v2 v2.2.7
+	github.com/klauspost/cpuid/v2 v2.2.10
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/multiversx/mx-chain-communication-go v1.1.1
 	github.com/multiversx/mx-chain-core-go v1.2.24
@@ -179,7 +179,7 @@ require (
 	golang.org/x/mod v0.17.0 // indirect
 	golang.org/x/net v0.33.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	gonum.org/v1/gonum v0.11.0 // indirect
